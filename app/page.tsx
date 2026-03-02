@@ -1,4 +1,4 @@
-"use client";
+"use client";  // ✅ AÑADE ESTA LÍNEA AL INICIO
 
 import dynamic from "next/dynamic";
 
